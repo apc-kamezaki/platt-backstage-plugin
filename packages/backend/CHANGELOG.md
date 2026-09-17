@@ -1,5 +1,11 @@
 # backend
 
+## 0.0.3
+
+### Patch Changes
+
+- b827003: Bump node-forge from 1.3.3 to 1.4.0
+
 ## 0.0.2
 
 ### Patch Changes
